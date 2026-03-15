@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="#english">English</a> | 
+  <a href="#français">Français</a>
+</p>
+
 # Hi there, I'm Anas 👋 
 
 I am a second-year **Information Technology** student at **EST**, passionate about software development, networking, and building secure digital solutions.
@@ -38,5 +43,5 @@ I am a second-year **Information Technology** student at **EST**, passionate abo
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin account](https://www.linkedin.com/in/anas-el-marihi-77782b388/)]
+- **LinkedIn:** [linkedin account](https://www.linkedin.com/in/anas-el-marihi-77782b388/)
 - **Email:** [anaselmarihi2021@gmail.com](mailto:anaselmarihi2021@gmail.com)

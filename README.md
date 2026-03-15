@@ -16,6 +16,11 @@
 - 🛡️ **Certification:** Cisco Certified in **Introduction to Cybersecurity**
 - 📍 **Location:** Morocco 🇲🇦
 
+### 🚀 Currently Learning
+- 🌐 Advanced **React** and **Angular** patterns
+- 🔒 Network Security & Penetration Testing basics
+- ☁️ Cloud Infrastructure and Deployment
+
 ### 🛠️ Tech Stack & Frameworks
 
 **Frontend & Frameworks**
@@ -38,8 +43,10 @@
 - 🛡️ **Certification :** Certifié Cisco en **Introduction à la Cybersécurité**
 - 📍 **Localisation :** Maroc 🇲🇦
 
-### 🛠️ Compétences et Frameworks
-*(Voir la section ci-dessus pour les icônes techniques)*
+### 🚀 En cours d'apprentissage
+- 🌐 Patterns avancés en **React** et **Angular**
+- 🔒 Sécurité réseau et bases du Pentesting
+- ☁️ Infrastructure Cloud et Déploiement
 
 ---
 
@@ -49,8 +56,8 @@
 * **Tech-RoadMap:** A curated guide for developers to navigate learning paths.
 
 ### 📊 GitHub Stats
-  ![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas-Elma&show_icons=true&theme=radical)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_GITHUB_USER&show_icons=true&theme=radical)
 
 ### 📫 Connect with me / Contactez-moi
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/anas-el-marihi-77782b388/])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-el-marihi-77782b388/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaselmarihi2021@gmail.com)

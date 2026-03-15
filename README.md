@@ -33,10 +33,10 @@ I am a second-year **Information Technology** student at **EST**, passionate abo
 ---
 
 ### 📊 GitHub Stats
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas-Elma&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [[linkedin.com/in/your-profile-url](https://www.linkedin.com/in/anas-el-marihi-77782b388/)]([https://linkedin.com/in/your-profile-url])
+- **LinkedIn:** [linkedin account](https://www.linkedin.com/in/anas-el-marihi-77782b388/)]
 - **Email:** [anaselmarihi2021@gmail.com](mailto:anaselmarihi2021@gmail.com)

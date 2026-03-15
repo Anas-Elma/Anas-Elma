@@ -38,5 +38,5 @@ I am a second-year **Information Technology** student at **EST**, passionate abo
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile-url]([https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/anas-el-marihi-77782b388/))
-- **Email:** [your-email@example.com](mailto:anaselmarihi2021@gmail.com)
+- **LinkedIn:** [[linkedin.com/in/your-profile-url](https://www.linkedin.com/in/anas-el-marihi-77782b388/)]([https://linkedin.com/in/your-profile-url])
+- **Email:** [anaselmarihi2021@gmail.com](mailto:anaselmarihi2021@gmail.com)

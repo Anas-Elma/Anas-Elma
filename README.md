@@ -56,7 +56,7 @@
 * **Tech-RoadMap:** A curated guide for developers to navigate learning paths.
 
 ### 📊 GitHub Stats
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_GITHUB_USER&show_icons=true&theme=radical)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas-Elma&show_icons=true&theme=radical)
 
 ### 📫 Connect with me / Contactez-moi
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-el-marihi-77782b388/)
